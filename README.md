@@ -1,4 +1,3 @@
-# Airline-Reservation-SQL-Analytics
 # ✈️ Airline Reservation & Flight Analytics (SQL Project)
 
 ## 🔎 Project Overview
